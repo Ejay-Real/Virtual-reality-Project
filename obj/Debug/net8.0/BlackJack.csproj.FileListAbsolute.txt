@@ -1,0 +1,14 @@
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BlackJack.exe
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BlackJack.deps.json
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BlackJack.runtimeconfig.json
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BlackJack.dll
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\BlackJack.pdb
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BlackJack.AssemblyInfo.cs
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BlackJack.dll
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\BlackJack.dll
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BlackJack.pdb
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\BlackJack.genruntimeconfig.cache
+C:\Users\Emore\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\BlackJack.dll
